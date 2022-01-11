@@ -1,2 +1,2 @@
-# Frontend
-Repository ini Melampirkan Penerapan dari HTML dan CSS Sebagaimana yang ada di silabus Week2 - Eduwork. 
+# CSS
+Repository ini Melampirkan Penerapan dari  CSS Sebagaimana yang ada di silabus Week2 - Eduwork. 
