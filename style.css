@@ -50,6 +50,25 @@ h3 {
   font-size: 30px;
   font-family: Arial, Helvetica, sans-serif;
 }
+
 .skill {
-  display: block;
+  text-align: center;
+  display: flex;
+  margin-left: 220px;
+  font-size: 25px;
+  padding: 20px;
+}
+.html {
+  width: 500px;
+  padding: 20px;
+  margin-right: 70px;
+}
+.css {
+  width: 500px;
+  padding: 20px;
+}
+.java {
+  width: 500px;
+  padding: 20px;
+  margin-left: 70px;
 }
