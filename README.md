@@ -1,2 +1,2 @@
-# dasar-HTML
-Repository ini Melampirkan Penerapan Dasar dari HTML yang mana menerapkan elemen dari Heading, Paragraf, List, Tabel &amp; Form.
+# Frontend
+Repository ini Melampirkan Penerapan dari HTML dan CSS Sebagaimana yang ada di silabus Week2 - Eduwork. 
