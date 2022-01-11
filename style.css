@@ -34,9 +34,9 @@ ul li {
   margin-top: 70px;
 }
 .main {
-  text-align: justify;
+  text-align: center;
   margin-top: 5px;
-  width: 1000px;
+  width: 2000px;
   margin-left: 610px;
   padding: 10px;
   font-size: 25px;
@@ -54,7 +54,7 @@ h3 {
 .skill {
   text-align: center;
   display: flex;
-  margin-left: 220px;
+  margin-left: 750px;
   font-size: 25px;
   padding: 20px;
 }
