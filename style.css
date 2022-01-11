@@ -33,3 +33,23 @@ ul li {
 .styleheader {
   margin-top: 70px;
 }
+.main {
+  text-align: justify;
+  margin-top: 5px;
+  width: 1000px;
+  margin-left: 610px;
+  padding: 10px;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+  padding: 15px;
+  text-align: center;
+  margin-top: 40px;
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.skill {
+  display: block;
+}
